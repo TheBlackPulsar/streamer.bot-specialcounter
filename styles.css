@@ -1,0 +1,11 @@
+/* Import the font of your choice from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=New+Rocker&display=swap');
+
+/* Style for the adjustable sentence */
+.adjustable-sentence {
+    font-family: 'New Rocker', cursive;
+    font-size: 64px; /* Adjust this value to change the size */
+    color: #FF0000; /* Adjust this value to change the color */
+    text-align: left;
+    margin-top: 0px;
+}
