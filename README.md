@@ -8,11 +8,11 @@ Step 1: Create a global var in your streamer.bot by clicking "Variables" at the 
 
 Step 2: Create a HTML file named index.html in a folder of your choice on your pc and fill in with the given HTML code
 
-Step 3: Change the two name expressions in the code into the name of the counter that is seen by your viewers 
+Step 3: Change the two name expressions in the code into the name of the counter that is seen by your viewers and change the content of the fourth href that says "https://fonts.googleapis.com/css2?family=New+Rocker&display=swap" into a font you like from https://fonts.google.com/
 
 Step 4: Create a style.css file in the same folderand fill in the given CSS code
 
-Step 5: Change the font to a google font you like from this website https://fonts.google.com/ with the options font-size and color you can also change the size in pixel and the color as HEX. For the color I recommend https://encycolorpedia.com/
+Step 5: Change the font to the same google font as above and adjust the options font-size and color you can also change the size in pixel and the color as HEX. For the color I recommend https://encycolorpedia.com/
 
 Step 6: Copy the code and put it into a execute code sub-action in your streamer.bot
 
